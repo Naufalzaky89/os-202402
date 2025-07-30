@@ -51,9 +51,8 @@ PID MEM NAME
 Read Count Sebelum: 4
 hello
 Read Count Setelah: 5
-
-> Jika ada screenshot:  
-> ![hasil rtest](./screenshots/rtest_output.png)
+ 
+> ![hasil rtest](./screenshot/modul1.png)
 
 ---
 
