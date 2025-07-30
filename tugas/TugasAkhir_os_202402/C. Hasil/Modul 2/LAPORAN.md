@@ -47,7 +47,7 @@ Parent selesai
 > Keterangan:  
 > `Child 2` memiliki prioritas lebih tinggi (angka lebih kecil), maka selesai lebih dulu meskipun dipanggil setelah `Child 1`.
 
-Jika ada screenshot terminal:
+> ![hasil rtest](./screenshot/modul2.png)
 
 
 ---
