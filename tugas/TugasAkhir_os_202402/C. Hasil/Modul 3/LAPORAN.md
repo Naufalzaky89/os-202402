@@ -46,8 +46,8 @@ Parent reads: B
 
 ### 📍 Screenshot Output Terminal:
 
-
-> (Catatan: jika belum ada screenshot, hapus baris di atas atau ganti dengan output nyata.)
+> ![hasil rtest](./screenshot/modul3A.png)
+>  ![hasil rtest](./screenshot/lmodul3b.png)
 
 ---
 
