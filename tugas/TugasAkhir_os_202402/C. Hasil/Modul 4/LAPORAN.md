@@ -58,7 +58,7 @@ Write blocked as expected
 
 ### 📍 Output `randomtest` (berubah-ubah):
 241 6 82 99 12 201 44 73
-
+> ![hasil rtest](./screenshot/modul4.png)
 
 ---
 
