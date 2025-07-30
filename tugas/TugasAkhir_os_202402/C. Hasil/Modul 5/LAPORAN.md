@@ -50,7 +50,7 @@ Program uji yang digunakan:
 ### 📍 Output `audit` saat dijalankan sebagai proses biasa:
 
 Access denied or error.
-
+> ![hasil rtest](./screenshot/modul5.png)
 ---
 
 ## ⚠️ Kendala yang Dihadapi
